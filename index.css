@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+}
+.bg-blue{
+    background-color: #18477b;
+}
+.bg-white{
+    background-color: rgba(255, 255, 255);
+}
+.subtitle-lightblue{
+    color: rgb(174 220 255);
+}
+.subtitle-mediumblue{
+    color: rgba(54, 120, 170);
+}
+.link-color{
+    color: rgba(193, 200, 210);
+}
+.white-char{
+    color: rgba(252, 253, 255);
+}
+.div-marg{
+    margin: 20px 50px 20px 50px;
+}
+.div-padd{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 20px 10px 20px 10px;
+}
+body{
+    background-color: rgb(244 247 251);
+}
+.bg-button{
+    background-color: rgb(42 86 133);
+}
+.lastBg-div{
+    background-color: rgba(6, 26, 53);
+}
+.Experience-border{
+    padding: 10px 0px 5px 5px;
+    border-left: solid rgb(30 113 179) 4px;
+    border-radius: 10px;
+    background-color: rgb(248 250 252);
+}
+.bor-radius{
+    border-radius: 10px;
+}
+.cir-img{
+    border-radius: 50%;
+    padding: 15px;
+}
+.skills-border{
+    border: solid rgb(179, 199, 250) 1px;
+    padding-left: 5px;
+    border-radius: 10px;
+    margin: 10px;
+    float: left;
+}
+.title-card{
+    background-color: rgb(24 72 123);
+    margin: 20px 50px 20px 50px;
+    padding: 30px 10px 30px 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.card-skills{
+    margin: 20px 50px 20px 50px;
+    padding: 30px 10px 150px 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.card{
+    margin: 20px 50px 20px 50px;
+    padding: 30px 10px 20px 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.contact-card{
+    border-radius: 10px;
+    margin: 20px 50px 20px 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 20px 10px 20px 10px;
+    background-color: rgb(24 72 123);
+    color: rgba(255, 255, 255);
+}
+.last-card{
+    text-align: center;
+    background-color: rgb(7 26 53);
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px 10px 20px 10px;
+    color: rgb(255, 255, 255);
+    margin: 20px 50px 20px 50px;
+}
+.btn-card{
+    background-color: rgb(48 91 136);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: solid transparent 1px ;
+}
+.clear-fix{
+    clear: left;
+}
